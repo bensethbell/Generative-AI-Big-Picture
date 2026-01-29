@@ -6,15 +6,13 @@ Jupyter notebooks for hands-on exercises with Generative AI and Groq.
 
 | Notebook | Topic |
 |----------|-------|
-| [Docusign-LLM-Bot.ipynb](https://colab.research.google.com/drive/1n9PdyJFZki4PWrGikPN8BzsaH7pnqlQm?usp=sharing) | DocuSign LLM Bot implementation |
 | [LAB_Prompt_Engineering_with_Groq.ipynb](https://colab.research.google.com/drive/1Bqs9gxZa7HrL2ttn-O_dZ4nxK8KHtvSG) | Prompt engineering techniques across diverse language tasks |
-| [Chatbot_with_Groq.ipynb](https://colab.research.google.com/drive/1dPBB-fxyyvvjSvxGUzUfOEyOgaQnj0Qt) | Building a chatbot using Groq API |
 
 ## Local Notebooks
 
 | Notebook | Description |
 |----------|-------------|
-| DocuSign_Agreement_AI_Agent.ipynb | AI agent for DocuSign agreement processing |
+| HKS_LAB_Prompt_Engineering_with_Groq.ipynb | Hands-on prompt engineering lab |
 
 ## Prerequisites
 
