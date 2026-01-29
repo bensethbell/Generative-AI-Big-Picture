@@ -1,6 +1,5 @@
 # How To Get The Most From GenAI
 
-* Because models are effectively "black boxes" the training manuals have to be produced by trial and error.
 * Because models "hallucinate" it's critical to approach their outputs with reasonable skepticism.
 * Because models train on truly massive datasets, they "know" a LOT of things.
     * But, that also means that domain knowledge is incredibly useful in getting AI's to generate quality outputs.

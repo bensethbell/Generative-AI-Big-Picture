@@ -6,12 +6,7 @@
 ## 1. JPMorgan Chase - COIN (Contract Intelligence)
 
 ### **Problem**
-- Legal teams spent **360,000 hours annually** reviewing commercial loan agreements
-- Manual review process was time-intensive, error-prone, and inconsistent
-- Lawyers and loan officers spent countless hours on "mind-numbing" data extraction tasks
-- High rate of loan-servicing mistakes due to human error in interpreting 12,000+ contracts yearly
-- Process couldn't scale with increasing contract volume
-- High cost of legal expertise ($100-500+/hour)
+Legal teams spent **360,000 hours annually** manually reviewing commercial loan agreements. The process was time-intensive, error-prone, couldn't scale with increasing volume, and led to high rates of loan-servicing mistakes from human error in interpreting 12,000+ contracts yearly.
 
 ### **What the AI Does**
 - **Automated document analysis**: Processes 12,000 commercial credit agreements using machine learning and NLP
@@ -29,19 +24,14 @@
 - **Compliance checking**: Validates agreements against regulatory requirements automatically
 
 ### **Results**
-- **360,000 hours saved annually** (equivalent to ~173 full-time employees)
-- **Processing time**: Seconds vs. weeks for 12,000 agreements
-- **~80% reduction in compliance-related errors**
-- **Eliminated most loan-servicing mistakes** stemming from human error
+- **360,000 hours saved annually** (equivalent to ~173 FTE)
+- **Processing time: Seconds** vs. weeks for 12,000 agreements
+- **~80% reduction** in compliance-related errors
 - **Millions in cost savings** as part of JPMorgan's $1.5B total AI savings
-- **Freed lawyers** to focus on strategic work, negotiation, and complex legal analysis
-- **Improved scalability**: Can handle increased volume without proportional cost increase
+- Freed lawyers to focus on strategic work and complex legal analysis
 
 ### **Technology Stack**
-- Unsupervised machine learning
-- Natural Language Processing (NLP)
-- Image recognition
-- Private cloud infrastructure
+Unsupervised machine learning, Natural Language Processing (NLP), image recognition, private cloud infrastructure
 
 ### **Sources**
 - [GM-RKB: JPMorgan COIN System](https://www.gabormelli.com/RKB/JPMorgan_Chase's_COIN_(Contract_Intelligence)_System)
@@ -53,10 +43,7 @@
 ## 2. JPMorgan Chase - Coach AI
 
 ### **Problem**
-- Wealth managers and financial advisors struggled to respond quickly to client inquiries during market volatility
-- Traditional process of gathering research, analyzing market conditions, and preparing recommendations took too long
-- Critical market moments required rapid response when clients needed immediate, data-driven insights
-- Advisors spent excessive time on research instead of client relationship building
+Wealth managers and financial advisors struggled to respond quickly to client inquiries during market volatility. The traditional process of gathering research, analyzing market conditions, and preparing recommendations took too long during critical market moments when clients needed immediate, data-driven insights.
 
 ### **What the AI Does**
 - **Real-time research access**: Provides instant access to comprehensive market research and analysis
@@ -72,18 +59,13 @@
 - **Decision support**: Helps advisors make informed recommendations during critical market events
 
 ### **Results**
-- **95% improvement in response times** during market volatility
-- **20% increase in gross sales** (2023-2024) in asset and wealth management
+- **95% improvement** in response times during market volatility
+- **20% increase** in gross sales (2023-2024) in asset and wealth management
 - **Expected 50% expansion** in client roster per advisor over 3-5 years
-- **Enabled advisors to serve more clients** without sacrificing service quality
-- **Improved client satisfaction** through faster, more informed responses
-- **Competitive advantage** in high-stakes wealth management market
+- Enabled advisors to serve more clients without sacrificing service quality
 
 ### **Technology Stack**
-- Large Language Model (LLM) integration
-- Real-time data processing
-- Natural language processing
-- Internal knowledge base integration
+Large Language Model integration, real-time data processing, NLP, internal knowledge base integration
 
 ### **Sources**
 - [AIX: Case Study - AI at JPMorgan Chase](https://aiexpert.network/ai-at-jpmorgan/)
@@ -95,12 +77,7 @@
 ## 3. Morgan Stanley - AI @ Morgan Stanley Assistant & AskResearchGPT
 
 ### **Problem**
-- 16,000+ financial advisors needed to search through 100,000+ proprietary research documents
-- Manual searches through vast repository took 30+ minutes per query
-- Document library growing constantly (70,000+ new reports published annually)
-- Time-consuming research limited advisors' ability to deliver timely, personalized advice
-- High-net-worth clients demanded immediate, data-driven insights
-- Investment bankers and traders needed rapid synthesis from dozens of industry reports
+16,000+ financial advisors needed to search through 100,000+ proprietary research documents. Manual searches took 30+ minutes per query, and the library was growing constantly (70,000+ new reports published annually). This time-consuming research limited advisors' ability to deliver timely, personalized advice to high-net-worth clients who demanded immediate, data-driven insights.
 
 ### **What the AI Does**
 - **Intelligent document search**: Uses GPT-4 with Retrieval-Augmented Generation (RAG) to query Morgan Stanley's proprietary research database
@@ -119,23 +96,16 @@
 
 **AI @ Morgan Stanley Assistant (Wealth Management):**
 - **98% adoption rate** among wealth management advisors
-- **Document retrieval efficiency improved from 20% to 80%**
-- **Response time reduced by 90%** (from 30+ minutes to seconds)
-- **Query processing**: 1/10th the time for salesperson responses
-- Nearly **50% of Morgan Stanley employees** now use OpenAI-powered tools
+- **Document retrieval efficiency: 20% → 80%**
+- **Response time reduced by 90%** (30+ minutes to seconds)
 
 **AskResearchGPT (Investment Banking & Trading):**
-- **3x more queries** compared to previous traditional AI tool
-- **10x faster** information retrieval than traditional methods
-- Synthesizes insights from **70,000+ annual proprietary reports**
-- Handles research for Investment Banking, Sales & Trading, and Research professionals
+- **3x more queries** vs. previous traditional AI tool
+- **10x faster** information retrieval
+- Synthesizes insights from **70,000+ annual reports**
 
 ### **Technology Stack**
-- OpenAI GPT-4
-- Retrieval-Augmented Generation (RAG)
-- Custom fine-tuning on proprietary data
-- Secure hosting on Morgan Stanley infrastructure
-- Integration with firm's knowledge management systems
+OpenAI GPT-4, Retrieval-Augmented Generation (RAG), custom fine-tuning on proprietary data, secure hosting on Morgan Stanley infrastructure
 
 ### **Sources**
 - [Emerj: AI at Morgan Stanley](https://emerj.com/artificial-intelligence-at-morgan-stanley-three-use-cases/)
@@ -149,12 +119,7 @@
 ## 4. CarMax - Review Summarization
 
 ### **Problem**
-- Over **100,000 customer reviews** across vehicle inventory
-- Customers overwhelmed by volume of reviews when researching vehicles
-- Reading through hundreds of reviews per vehicle was time-consuming
-- Difficult for buyers to identify common themes or key insights
-- Important information buried in lengthy review text
-- Purchase decision-making process slowed by information overload
+Over 100,000 customer reviews across vehicle inventory overwhelmed customers researching vehicles. Reading through hundreds of reviews per vehicle was time-consuming, making it difficult for buyers to identify common themes or key insights, which slowed the purchase decision-making process.
 
 ### **What the AI Does**
 - **Automated summarization**: Uses GPT-3 (via Microsoft Azure OpenAI) to analyze and condense customer reviews
@@ -166,19 +131,12 @@
 - **Quality vehicle information**: Creates structured, readable summaries posted to research pages
 
 ### **Results**
-- **Condensed 100,000 reviews into approximately 5,000 digestible highlights**
-- **20:1 compression ratio** while maintaining key information
-- **Improved customer purchase decision-making process**
-- **Enhanced user experience** on vehicle research pages
-- **Reduced time to decision** for potential buyers
-- **Better information accessibility** for customers researching vehicles
-- Successfully deployed at scale across entire inventory
+- **Condensed 100,000 reviews into ~5,000 digestible highlights** (20:1 compression ratio)
+- Improved customer purchase decision-making process
+- Reduced time to decision for potential buyers
 
 ### **Technology Stack**
-- OpenAI GPT-3
-- Microsoft Azure OpenAI Service
-- Natural language processing
-- Automated content summarization
+OpenAI GPT-3, Microsoft Azure OpenAI Service, NLP, automated content summarization
 
 ### **Sources**
 - [MIT Sloan: Practical AI Implementation](https://mitsloan.mit.edu/ideas-made-to-matter/practical-ai-implementation-success-stories-mit-sloan-management-review)
@@ -188,12 +146,7 @@
 ## 5. Accenture - Knowledge Assist
 
 ### **Problem**
-- New hire onboarding and training was time-intensive and inconsistent
-- Employees frequently needed to escalate queries to experts for answers
-- Knowledge scattered across multiple systems and formats
-- Difficulty accessing relevant information quickly across global operations
-- High volume of repetitive questions consuming expert time
-- Inconsistent answers to common questions across teams
+New hire onboarding and training was time-intensive and inconsistent. Employees frequently escalated queries to experts for answers, and knowledge was scattered across multiple systems, making it difficult to access relevant information quickly across global operations.
 
 ### **What the AI Does**
 - **Multi-model AI architecture**: Combines multiple LLMs (Anthropic Claude-2, Amazon Titan) for optimal performance
@@ -207,21 +160,13 @@
 - **Knowledge graph integration**: Connects related information across different data sources
 
 ### **Results**
-- **50% reduction in new hire training time**
-- **40% drop in query escalations** to subject matter experts
-- **Scalable enterprise knowledge solution** deployed globally
-- **Improved employee productivity** through faster information access
-- **More consistent answers** across teams and geographies
-- **Freed experts** to focus on complex, high-value work instead of answering routine questions
-- **Successful multi-model deployment** demonstrating mature LLMOps practices
+- **50% reduction** in new hire training time
+- **40% drop** in query escalations to subject matter experts
+- Scalable enterprise knowledge solution deployed globally
+- Freed experts to focus on complex, high-value work
 
 ### **Technology Stack**
-- Anthropic Claude-2
-- Amazon Titan
-- Pinecone (vector database)
-- AWS Kendra (enterprise search)
-- Multi-model orchestration on AWS
-- Real-time data processing pipeline
+Anthropic Claude-2, Amazon Titan, Pinecone (vector database), AWS Kendra (enterprise search), multi-model orchestration on AWS
 
 ### **Sources**
 - [ZenML: LLMOps Database - Accenture](https://www.zenml.io/llmops-database/)
@@ -288,7 +233,7 @@
 
 ---
 
-## Teaching Takeaways
+## Takeaways
 
 ### **What Makes a Good LLM Use Case:**
 
@@ -308,8 +253,3 @@
 5. Measure **specific business metrics**
 6. Iterate based on **user feedback**
 7. Plan for **continuous improvement**
-
----
-
-*Document compiled: January 2025*  
-*Based on publicly available case studies and industry reports*
