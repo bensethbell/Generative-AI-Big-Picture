@@ -6,7 +6,7 @@ Workshop materials and resources for understanding generative AI, large language
 
 - [Generative AI Holistic Perspective](https://docs.google.com/presentation/d/1LaPTo8OaWBcuuTXnNSo6dITLKxsvA6s5/edit?usp=sharing&ouid=109036277148056682596&rtpof=true&sd=true)
 - [Customizing LLMs for Your Use Case](https://docs.google.com/presentation/d/1MBiJQxxCbP-6eCPzxiuoCXbAV3Pj9vnn/edit?usp=sharing&ouid=109036277148056682596&rtpof=true&sd=true)
-- [Prompt Engineering](https://docs.google.com/presentation/d/1MBiJQxxCbP-6eCPzxiuoCXbAV3Pj9vnn/edit?usp=sharing&ouid=109036277148056682596&rtpof=true&sd=true)
+- [Prompt Engineering](https://docs.google.com/presentation/d/1WuAfb3sgCfcbSTBhIXLm48zp03-9QJsY/edit?usp=sharing&ouid=109036277148056682596&rtpof=true&sd=true)
 - [AI Ethics and Safety](https://docs.google.com/presentation/d/12ESFnEif24kPsxPfv1dGOszgt2eab6Ab/edit?usp=sharing&ouid=109036277148056682596&rtpof=true&sd=true)
 
 ## Repository Structure
