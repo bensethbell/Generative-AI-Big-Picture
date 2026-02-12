@@ -46,3 +46,6 @@ Workshop materials and resources for understanding generative AI, large language
 - Real-world applications and case studies
 - AI ethics, bias, and safety considerations
 - Building AI agents with DocuSign integration
+
+## Extra Resources
+- [Llama vs Claude Comparison](https://claude.ai/public/artifacts/b8f132f7-7e06-4ab7-a245-acfc9e5a69e8)
