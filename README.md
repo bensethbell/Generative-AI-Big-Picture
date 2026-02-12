@@ -46,5 +46,3 @@ Workshop materials and resources for understanding generative AI, large language
 - Real-world applications and case studies
 - AI ethics, bias, and safety considerations
 - Building AI agents with DocuSign integration
-
-**FEEDBACK LINK: [https://pluralsight.surveymonkey.com/r/TCJ3D9B](https://pluralsight.surveymonkey.com/r/TCJ3D9B)**
